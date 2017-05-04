@@ -1,1 +1,15 @@
-﻿
+{
+  "name": "health_info",
+  "version": "1.0.0",
+  "discription": "important health information",
+  "main": "healthInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dpendencies": {
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  }
+};
